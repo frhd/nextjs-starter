@@ -16,5 +16,10 @@
     "url": "https://github.com/frhd/nextjs-starter/issues"
   },
   "homepage": "https://github.com/frhd/nextjs-starter#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "next": "^9.0.5",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  }
 }
